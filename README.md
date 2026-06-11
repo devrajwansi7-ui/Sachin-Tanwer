@@ -35,5 +35,5 @@ or Business Analytics.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](#) — add your LinkedIn URL here
-- 📧 your@email.com — add your email here
+- 💼 [LinkedIn](#)
+- 📧 sachintanwer00@gmaill.com
